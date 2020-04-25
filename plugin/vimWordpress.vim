@@ -1,6 +1,6 @@
 
 
-python << EOF
+python333 << EOF
 import sys
 from os.path import normpath, join
 import vim
