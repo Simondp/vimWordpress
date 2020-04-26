@@ -1,1 +1,1 @@
-print("Hello inside python"!)
+print("Hello inside python")
